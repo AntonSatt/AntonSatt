@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome! 👋
 
-<!--
-**AntonSatt/AntonSatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About me
+- 🏫 DevOps newbie, obsessed with alarms at 4 AM, security matters. 
+- 📚 Learning: Python, Linux, Docker, Grafana. 
+- 🎓 Studying DevOps at [Chas Academy](https://chasacademy.se/program/devops-engineer) (Class of 2025, expected 2027).
+- 🔗 Connect with me: [Linkedin](https://www.linkedin.com/in/anton-satterkvist)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I know
+![Static Badge](https://img.shields.io/badge/Git-%23f18c7e)
+![Static Badge](https://img.shields.io/badge/GitHub-%230366d6)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB)
+![Static Badge](https://img.shields.io/badge/C-%23555555)
+![Static Badge](https://img.shields.io/badge/Linux-%232e8b57)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED)
+![Static Badge](https://img.shields.io/badge/Grafana-%237B1FA2)
+![Static Badge](https://img.shields.io/badge/Prometheus-%23000000)
