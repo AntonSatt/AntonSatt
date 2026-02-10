@@ -56,9 +56,11 @@ Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/dev
 
 ## GitHub Stats
 <p align="left">
-  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="150"/>
+  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="GitHub Stats" height="150"/>
+  <img src="./profile/stats-light.svg#gh-light-mode-only" alt="GitHub Stats" height="150"/>
   <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="150"/>
-  </p>
+  <img src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Top Languages" height="150"/>
+</p>
 
 ---
 
