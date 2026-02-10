@@ -55,13 +55,10 @@ Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/dev
 - Cloud architecture on AWS & Azure
 
 ## GitHub Stats
-
-<a href="https://github.com/AntonSatt">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntonSatt&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSatt&layout=compact&theme=default&hide_border=true" />
-</a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonSatt&hide_border=true)
+<p align="left">
+  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="150"/>
+  <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="150"/>
+  </p>
 
 ---
 
