@@ -39,12 +39,12 @@ Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Featured Projects
+## Projects
 
-### [Raspberry Pi Monitoring](https://github.com/AntonSatt/Raspberry-Pi-Monitoring)
-Full monitoring stack for Raspberry Pi using Prometheus and Grafana. Collects system metrics (CPU, memory, disk, network) and visualizes them in real-time dashboards. Built as a practical guide for DevOps students learning observability.
-
-**Stack:** Prometheus, Grafana, Node Exporter, Docker, Linux
+- **[CarbonShift](https://github.com/AntonSatt/carbon_shift_website)** - Calculate your carbon footprint on AWS deployments
+- **[Raspberry Pi Monitoring](https://github.com/AntonSatt/Raspberry-Pi-Monitoring)** - Prometheus + Grafana monitoring stack for Raspberry Pi
+- **[SattBot](https://github.com/AntonSatt/sattbot)** - Custom Discord bot built with Python
+- **[Nextcloud Guide](https://github.com/AntonSatt/nextcloud-guide)** - Self-hosted Nextcloud setup guide
 
 ## Currently Learning
 
@@ -55,9 +55,12 @@ Full monitoring stack for Raspberry Pi using Prometheus and Grafana. Collects sy
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonSatt&show_icons=true&theme=default&hide_border=true&count_private=true)
+<a href="https://github.com/AntonSatt">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntonSatt&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSatt&layout=compact&theme=default&hide_border=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSatt&layout=compact&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonSatt&hide_border=true)
 
 ---
 
