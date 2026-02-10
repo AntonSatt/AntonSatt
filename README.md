@@ -48,10 +48,11 @@ Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/dev
 
 ## Currently Learning
 
+- Databases - SQLite, MariaDB, MySQL
 - Kubernetes & container orchestration
 - Terraform & Infrastructure as Code
 - Advanced CI/CD pipeline design
-- Cloud architecture on AWS
+- Cloud architecture on AWS & Azure
 
 ## GitHub Stats
 
