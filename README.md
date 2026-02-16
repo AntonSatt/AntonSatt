@@ -11,6 +11,13 @@ Stockholm, Sweden
 
 Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/devops-engineer) (2025-2027). I build monitoring systems, automate infrastructure, and work with cloud-native tooling. Passionate about reliability, observability, and shipping things that don't break at 4 AM.
 
+## Projects
+
+- **[CarbonShift](https://github.com/AntonSatt/carbon_shift_website)** - Calculate your carbon footprint on AWS deployments
+- **[Raspberry Pi Monitoring](https://github.com/AntonSatt/Raspberry-Pi-Monitoring)** - Prometheus + Grafana monitoring stack for Raspberry Pi
+- **[SattBot](https://github.com/AntonSatt/sattbot)** - Custom Discord bot built with Python
+- **[Nextcloud Guide](https://github.com/AntonSatt/nextcloud-guide)** - Self-hosted Nextcloud setup guide
+
 ## Tech Stack
 
 **Languages & Scripting**
@@ -38,13 +45,6 @@ Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/dev
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## Projects
-
-- **[CarbonShift](https://github.com/AntonSatt/carbon_shift_website)** - Calculate your carbon footprint on AWS deployments
-- **[Raspberry Pi Monitoring](https://github.com/AntonSatt/Raspberry-Pi-Monitoring)** - Prometheus + Grafana monitoring stack for Raspberry Pi
-- **[SattBot](https://github.com/AntonSatt/sattbot)** - Custom Discord bot built with Python
-- **[Nextcloud Guide](https://github.com/AntonSatt/nextcloud-guide)** - Self-hosted Nextcloud setup guide
 
 ## Currently Learning
 
