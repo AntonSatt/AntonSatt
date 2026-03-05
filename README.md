@@ -1,6 +1,6 @@
 # Anton Sätterkvist
 
-**DevOps Engineering Student | Cloud Infrastructure | Automation | Monitoring**
+**DevOps Engineering | Cloud Infrastructure | Automation | Monitoring**
 
 Stockholm, Sweden
 
