@@ -16,6 +16,7 @@ Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/dev
 - **[CarbonShift](https://github.com/AntonSatt/carbon_shift_website)** - Calculate your carbon footprint on AWS deployments
 - **[SSH Radar](https://github.com/AntonSatt/SSH-Radar)** - Real-time monitoring and visualization of failed SSH login attempts on a Linux server.
 - **[Are We Up](https://github.com/AntonSatt/are-we-up)** - Self-hostable uptime monitoring tool to make sure your projects stay online.
+- **[GitLab Self Host](https://github.com/AntonSatt/gitlab-self-host)** - Self-hosted GitLab.
 - **[Raspberry Pi Monitoring](https://github.com/AntonSatt/Raspberry-Pi-Monitoring)** - Prometheus + Grafana monitoring stack for Raspberry Pi
 - **[SattBot](https://github.com/AntonSatt/sattbot)** - Custom Discord bot built with Python
 - **[Nextcloud Guide](https://github.com/AntonSatt/nextcloud-guide)** - Self-hosted Nextcloud setup guide
