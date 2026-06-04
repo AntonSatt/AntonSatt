@@ -20,6 +20,7 @@ Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/dev
 - **[Raspberry Pi Monitoring](https://github.com/AntonSatt/Raspberry-Pi-Monitoring)** - Prometheus + Grafana monitoring stack for Raspberry Pi
 - **[SattBot](https://github.com/AntonSatt/sattbot)** - Custom Discord bot built with Python
 - **[Nextcloud Guide](https://github.com/AntonSatt/nextcloud-guide)** - Self-hosted Nextcloud setup guide
+- **[Mallo](https://github.com/AntonSatt/mallo)** - Chas Challenge - Chas Academy Project - Big Group Project
 
 ## Tech Stack
 
