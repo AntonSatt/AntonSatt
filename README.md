@@ -18,13 +18,17 @@ Studying DevOps Engineering at [Chas Academy](https://chasacademy.se/program/dev
 
 ## Projects
 
-- **[K3s Cluster on Oracle Cloud](https://antonsatt.com/k3s-cluster.html)** — Production K3s on Oracle Cloud free tier: ArgoCD GitOps, automatic SSL, Ansible provisioning. Hosts 6 services at $0/month.
-- **[CarbonShift](https://github.com/AntonSatt/carbon_shift_website)** — 🏆 1st place, Grafana/HiQ/AWS hackathon. Estimates the carbon footprint of AWS deployments (React + FastAPI + AWS Bedrock).
-- **[SSH Radar](https://github.com/AntonSatt/SSH-Radar)** — Real-time monitoring and visualization of failed SSH login attempts on a Linux server.
-- **[GitLab Self-Hosted](https://github.com/AntonSatt/gitlab-self-host)** — Self-hosted GitLab with CI/CD pipelines.
 - **Platform Lab** *(private, in active build)* — Self-hosted internal developer platform on bare metal. HA K3s, Flux GitOps, self-hosted GitLab CI, cert-manager + Traefik via Helm, OpenTofu provisioning Oracle Cloud, DORA metrics via Apache DevLake. The whole platform re-stands from a single git repo.
+- **[K3s Cluster on Oracle Cloud](https://antonsatt.com/k3s-cluster.html)** — Production K3s on Oracle Cloud free tier: ArgoCD GitOps, automatic SSL, Ansible provisioning. Hosts 6 services at $0/month.
+- **[Mallo](https://github.com/AntonSatt/mallo)** — Chas Challenge — Chas Academy group project.
+- **[GitLab Self-Hosted](https://github.com/AntonSatt/gitlab-self-host)** — Self-hosted GitLab with CI/CD pipelines.
 - **[Are We Up](https://github.com/AntonSatt/are-we-up)** — Self-hostable uptime monitoring tool to make sure your projects stay online.
+- **[SSH Radar](https://github.com/AntonSatt/SSH-Radar)** — Real-time monitoring and visualization of failed SSH login attempts on a Linux server.
+- **[SattBot](https://github.com/AntonSatt/sattbot)** — Custom Discord bot built with Python.
+- **[CarbonShift](https://github.com/AntonSatt/carbon_shift_website)** — 🏆 1st place, Grafana/HiQ/AWS hackathon. Estimates the carbon footprint of AWS deployments (React + FastAPI + AWS Bedrock).
 - **[Theodor — AI Onboarding](https://www.youtube.com/watch?v=1GaqWt-A5fk)** — 🥉 3rd place, Cillers Hackathon at AWS HQ. *(Demo video — no repo.)*
+- **[Nextcloud Guide](https://github.com/AntonSatt/nextcloud-guide)** — Self-hosted Nextcloud setup guide.
+- **[Raspberry Pi Monitoring](https://github.com/AntonSatt/Raspberry-Pi-Monitoring)** — Prometheus + Grafana monitoring stack for Raspberry Pi.
 
 ## Tech Stack
 
