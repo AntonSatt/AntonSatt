@@ -10,6 +10,12 @@ Stockholm, Sweden
 
 I study DevOps Engineering at [Chas Academy](https://chasacademy.se/program/devops-engineer) (2025-2027) and currently work with DevOps and platform engineering at Samhall alongside my studies. I focus on cloud infrastructure, automation, CI/CD, infrastructure as code, GitOps, observability, and developer experience.
 
+### Live Systems
+
+[![Portfolio status](https://img.shields.io/website?url=https%3A%2F%2Fantonsatt.com&up_message=online&down_message=offline&label=Portfolio&logo=googlechrome)](https://antonsatt.com)
+[![SSH Radar status](https://img.shields.io/website?url=https%3A%2F%2Fssh-radar.antonsatt.com&up_message=online&down_message=offline&label=SSH%20Radar&logo=linux)](https://ssh-radar.antonsatt.com)
+[![CarbonShift status](https://img.shields.io/website?url=https%3A%2F%2Fcarbonshift.antonsatt.com&up_message=online&down_message=offline&label=CarbonShift&logo=amazonwebservices)](https://carbonshift.antonsatt.com)
+
 **Current private work:** a hands-on platform lab and a new version of Dropscribe, a self-hosted GPU transcription application. Both remain private while under active development.
 
 ## Featured Projects
