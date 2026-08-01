@@ -13,7 +13,7 @@ I study DevOps Engineering at [Chas Academy](https://chasacademy.se/program/devo
 ### Live Systems
 
 [![Portfolio status](https://img.shields.io/website?url=https%3A%2F%2Fantonsatt.com&up_message=online&down_message=offline&label=Portfolio&logo=googlechrome)](https://antonsatt.com)
-[![GitLab status](https://img.shields.io/website?url=https%3A%2F%2Fgit.antonsatt.com&up_message=online&down_message=offline&label=GitLab&logo=gitlab)](https://git.antonsatt.com/explore/projects/active)
+[![GitLab status](https://img.shields.io/website?url=https%3A%2F%2Fgit.antonsatt.com%2Fusers%2Fsign_in&up_message=online&down_message=offline&label=GitLab&logo=gitlab)](https://git.antonsatt.com/explore/projects/active)
 [![Argo CD status](https://img.shields.io/website?url=https%3A%2F%2Fargocd.antonsatt.com&up_message=online&down_message=offline&label=Argo%20CD&logo=argo)](https://antonsatt.com/k3s-cluster.html)
 [![SSH Radar status](https://img.shields.io/website?url=https%3A%2F%2Fssh-radar.antonsatt.com&up_message=online&down_message=offline&label=SSH%20Radar&logo=linux)](https://ssh-radar.antonsatt.com)
 [![CarbonShift status](https://img.shields.io/website?url=https%3A%2F%2Fcarbonshift.antonsatt.com&up_message=online&down_message=offline&label=CarbonShift&logo=amazonwebservices)](https://carbonshift.antonsatt.com)
@@ -25,9 +25,9 @@ I study DevOps Engineering at [Chas Academy](https://chasacademy.se/program/devo
 - **[Mallo](https://github.com/AntonSatt/mallo)** - My DevOps contribution to a Chas Challenge team project: GitLab CI/CD, K3s deployments, gated production releases, smoke tests, and Prometheus/Grafana observability. [Case study](https://antonsatt.com/mallo.html)
 - **[SSH Radar](https://github.com/AntonSatt/SSH-Radar)** - Live visualization of failed SSH logins using Python, PostgreSQL, MaxMind, React, and Grafana. [Live demo](https://ssh-radar.antonsatt.com/)
 - **[CarbonShift](https://github.com/AntonSatt/carbon_shift_website)** - First-place Grafana, HiQ, and AWS hackathon project comparing cloud carbon emissions and cost across AWS regions. [Live demo](https://carbonshift.antonsatt.com/)
-- **[K3s Cluster](https://antonsatt.com/k3s-cluster.html)** - Two-node ARM64 environment on Oracle Cloud with Argo CD GitOps, automated TLS, Ansible provisioning, and six hosted services.
+- **[K3s Cluster](https://antonsatt.com/k3s-cluster.html)** - Single-node ARM64 platform on Oracle Cloud with Argo CD GitOps, automated TLS, Ansible provisioning, and Docker-backed GitLab routing.
+- **[GitLab Self-Hosted](https://github.com/AntonSatt/gitlab-self-host)** - Audited GitLab CE deployment using Docker Compose, K3s and Traefik ingress, cert-manager TLS, tested backup and upgrade procedures, and CI validation.
 - **[Are We Up](https://github.com/AntonSatt/are-we-up)** - Self-hostable uptime monitoring with Prometheus, Grafana, Alertmanager, and Blackbox Exporter.
-- **[Raspberry Pi Monitoring](https://github.com/AntonSatt/Raspberry-Pi-Monitoring)** - Practical Prometheus and Grafana monitoring guide written for DevOps students.
 
 ## Stack
 
@@ -59,6 +59,21 @@ I study DevOps Engineering at [Chas Academy](https://chasacademy.se/program/devo
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+
+## GitHub Activity
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img src="./profile/stats-light.svg" alt="Anton's GitHub statistics" height="150">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img src="./profile/top-langs-light.svg" alt="Anton's most used public repository languages" height="150">
+  </picture>
+</p>
 
 ## Highlights
 
