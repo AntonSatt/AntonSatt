@@ -13,6 +13,8 @@ I study DevOps Engineering at [Chas Academy](https://chasacademy.se/program/devo
 ### Live Systems
 
 [![Portfolio status](https://img.shields.io/website?url=https%3A%2F%2Fantonsatt.com&up_message=online&down_message=offline&label=Portfolio&logo=googlechrome)](https://antonsatt.com)
+[![GitLab status](https://img.shields.io/website?url=https%3A%2F%2Fgit.antonsatt.com&up_message=online&down_message=offline&label=GitLab&logo=gitlab)](https://git.antonsatt.com/explore/projects/active)
+[![Argo CD status](https://img.shields.io/website?url=https%3A%2F%2Fargocd.antonsatt.com&up_message=online&down_message=offline&label=Argo%20CD&logo=argo)](https://antonsatt.com/k3s-cluster.html)
 [![SSH Radar status](https://img.shields.io/website?url=https%3A%2F%2Fssh-radar.antonsatt.com&up_message=online&down_message=offline&label=SSH%20Radar&logo=linux)](https://ssh-radar.antonsatt.com)
 [![CarbonShift status](https://img.shields.io/website?url=https%3A%2F%2Fcarbonshift.antonsatt.com&up_message=online&down_message=offline&label=CarbonShift&logo=amazonwebservices)](https://carbonshift.antonsatt.com)
 
