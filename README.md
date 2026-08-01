@@ -60,21 +60,6 @@ I study DevOps Engineering at [Chas Academy](https://chasacademy.se/program/devo
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
 
-## GitHub Activity
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
-    <img src="./profile/stats-light.svg" alt="Anton's GitHub statistics" height="150">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
-    <img src="./profile/top-langs-light.svg" alt="Anton's most used public repository languages" height="150">
-  </picture>
-</p>
-
 ## Highlights
 
 - AWS Certified Cloud Practitioner, earned March 2026
